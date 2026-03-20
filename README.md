@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aom</h1>
-<h3 align="center">4th-year IT Student at KMITL | Aspiring Full-stack Developer</h3>
+<h3 align="center">4th-year IT Student at KMITL</h3>
 
 <p align="center">
   <a href="mailto:aompanruethai31@gmail.com"><img src="https://img.shields.io/badge/Email-aompanruethai31%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
