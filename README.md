@@ -32,10 +32,3 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 </p>
-
----
-
-### 📊 My Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaomprt&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="aaomprt" />
-</p>
